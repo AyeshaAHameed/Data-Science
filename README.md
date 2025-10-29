@@ -1,4 +1,5 @@
-🧠 Data Science & Machine Learning Repository
+Data Science & Machine Learning Repository
+
 
 This repository contains various Machine Learning algorithms, data preprocessing techniques, and model training experiments implemented as part of my data science learning and practice journey.
 
